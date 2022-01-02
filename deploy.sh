@@ -10,15 +10,15 @@ npm run build
 cd docs/.vuepress/dist
 
 # deploy to github pages
-# echo 'b.wangyifei.com' > CNAME
+# echo 'b.yifeewang.com' > CNAME
 
 # if [ -z "$GITHUB_TOKEN" ]; then
 #   msg='deploy'
-#   githubUrl=git@github.com:wangyifei/vuepress-theme-vdoing.git
+#   githubUrl=git@github.com:yifeewang/vuepress-theme-vdoing.git
 # else
 #   msg='来自github actions的自动部署'
-#   githubUrl=https://wangyifei:${GITHUB_TOKEN}@github.com/wangyifei/vuepress-theme-vdoing.git
-#   git config --global user.name "wangyifei"
+#   githubUrl=https://yifeewang:${GITHUB_TOKEN}@github.com/yifeewang/vuepress-theme-vdoing.git
+#   git config --global user.name "yifeewang"
 #   git config --global user.email "894072666@qq.com"
 # fi
 git init
@@ -31,7 +31,7 @@ git push -f https://github.com/yifeewang/helloyifee.github.io master
 # git push -f git@github.com:yifeewang/helloyifee.github.io.git master:gh-pages
 
 # deploy to coding pages
-# echo 'www.wangyifei.com\nwangyifei.com' > CNAME  # 自定义域名
+# echo 'www.yifeewang.com\nyifeewang.com' > CNAME  # 自定义域名
 # echo 'google.com, pub-7828333725993554, DIRECT, f08c47fec0942fa0' > ads.txt # 谷歌广告相关文件
 
 # if [ -z "$CODING_TOKEN" ]; then  # -z 字符串 长度为0则为true；$CODING_TOKEN来自于github仓库`Settings/Secrets`设置的私密环境变量
