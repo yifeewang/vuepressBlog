@@ -1,4 +1,4 @@
-<p align="center"><a href="https://yifeewang.com/" target="_blank" rel="noopener noreferrer"><img width="180" src="https://cdn.jsdelivr.net/gh/yifeewang/image_store/blog/20200409124835.png" alt="logo"></a></p>
+<p align="center"><a href="https://yifeewang.com/" target="_blank" rel="noopener noreferrer"><img width="180" src="https://cdn.jsdelivr.net/gh/xugaoyi/image_store/blog/20200409124835.png" alt="logo"></a></p>
 
 <p align="center">
   <a href="https://github.com/yifeewang/vuepress-theme-vdoing/actions?query=workflow%3ACI"><img src="https://github.com/yifeewang/vuepress-theme-vdoing/workflows/CI/badge.svg" alt="CI"></a>
@@ -65,9 +65,9 @@ npm run dev # or yarn dev
 
 谢谢！ :heart:
 
-|                                                   微信赞赏                                                   |                                                        微信                                                         |                                                       支付宝                                                        |
-| :----------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------: |
-| <img src="https://cdn.jsdelivr.net/gh/yifeewang/image_store/blog/20200523131533.jpg" alt="赞赏码" width=150> | <img src="https://cdn.jsdelivr.net/gh/yifeewang/image_store/blog/20200410113708.jpg" alt="Wechat QRcode" width=150> | <img src="https://cdn.jsdelivr.net/gh/yifeewang/image_store/blog/20200410113707.jpg" alt="Alipay QRcode" width=150> |
+|                                                  微信赞赏                                                  |                                                       微信                                                        |                                                      支付宝                                                       |
+| :--------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------: |
+| <img src="https://cdn.jsdelivr.net/gh/xugaoyi/image_store/blog/20200523131533.jpg" alt="赞赏码" width=150> | <img src="https://cdn.jsdelivr.net/gh/xugaoyi/image_store/blog/20200410113708.jpg" alt="Wechat QRcode" width=150> | <img src="https://cdn.jsdelivr.net/gh/xugaoyi/image_store/blog/20200410113707.jpg" alt="Alipay QRcode" width=150> |
 
 二维码没有正常显示？点 [这里 😎](https://doc.yifeewang.com/pages/1b12ed/)
 
@@ -81,14 +81,14 @@ npm run dev # or yarn dev
 
 群号：694387113
 
-<img src="https://cdn.jsdelivr.net/gh/yifeewang/image_store/blog/20200712122307.jpg" alt="群号：694387113" width="200">
+<img src="https://cdn.jsdelivr.net/gh/xugaoyi/image_store/blog/20200712122307.jpg" alt="群号：694387113" width="200">
 
 ## 公众号
 
 `有趣研究社`是本人对各种有趣的、好玩的、沙雕的创意和想法以在线小网站或者文章的形式表达出来，比如 80、90 后朋友小时候玩的小霸王游戏机：<https://game.yifeewang.com>，还有更多好玩的等你去探索吧~
 
-<img src="https://cdn.jsdelivr.net/gh/yifeewang/image_store@master/blog/扫码_搜索联合传播样式-标准色版.1wp8gd1mhjhc.jpg"  style="width:370px;" />
-<!-- <img src="https://cdn.jsdelivr.net/gh/yifeewang/image_store@master/blog/qrcode.zdqv9mlfc0g.jpg"  style="width:30%;" /> -->
+<img src="https://cdn.jsdelivr.net/gh/xugaoyi/image_store@master/blog/扫码_搜索联合传播样式-标准色版.1wp8gd1mhjhc.jpg"  style="width:370px;" />
+<!-- <img src="https://cdn.jsdelivr.net/gh/xugaoyi/image_store@master/blog/qrcode.zdqv9mlfc0g.jpg"  style="width:30%;" /> -->
 
 ## 许可证
 

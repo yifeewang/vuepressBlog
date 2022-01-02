@@ -177,9 +177,9 @@ module.exports = {
         // categoryText: '随笔', // 碎片化文章（_posts文件夹的文章）预设生成的分类值，默认'随笔'
 
         // bodyBgImg: [
-        //   'https://cdn.jsdelivr.net/gh/yifeewang/image_store/blog/20200507175828.jpeg',
-        //   'https://cdn.jsdelivr.net/gh/yifeewang/image_store/blog/20200507175845.jpeg',
-        //   'https://cdn.jsdelivr.net/gh/yifeewang/image_store/blog/20200507175846.jpeg'
+        //   'https://cdn.jsdelivr.net/gh/xugaoyi/image_store/blog/20200507175828.jpeg',
+        //   'https://cdn.jsdelivr.net/gh/xugaoyi/image_store/blog/20200507175845.jpeg',
+        //   'https://cdn.jsdelivr.net/gh/xugaoyi/image_store/blog/20200507175846.jpeg'
         // ], // body背景大图，默认无。 单张图片 String | 多张图片 Array, 多张图片时每隔15秒换一张。
         // bodyBgImgOpacity: 0.5, // body背景图透明度，选值 0 ~ 1.0, 默认0.5
 
@@ -355,25 +355,25 @@ module.exports = {
                 hm: baiduCode || '503f098e7e5b3a5b5d8c5fc2938af002',
             },
         ],
-        [
-            'vuepress-plugin-comment', // 评论
-            {
-                choosen: 'gitalk',
-                options: {
-                    clientID: 'a6e1355287947096b88b',
-                    clientSecret: 'f0e77d070fabfcd5af95bebb82b2d574d7248d71',
-                    repo: 'blog-gitalk-comment', // GitHub 仓库
-                    owner: 'yifeewang', // GitHub仓库所有者
-                    admin: ['yifeewang'], // 对仓库有写权限的人
-                    // distractionFreeMode: true,
-                    pagerDirection: 'last', // 'first'正序 | 'last'倒序
-                    id: '<%- (frontmatter.permalink || frontmatter.to.path).slice(-16) %>', //  页面的唯一标识,长度不能超过50
-                    title: '「评论」<%- frontmatter.title %>', // GitHub issue 的标题
-                    labels: ['Gitalk', 'Comment'], // GitHub issue 的标签
-                    body: '页面：<%- window.location.origin + (frontmatter.to.path || window.location.pathname) %>', // GitHub issue 的内容
-                },
-            },
-        ],
+        // [
+        //     'vuepress-plugin-comment', // 评论
+        //     {
+        //         choosen: 'gitalk',
+        //         options: {
+        //             clientID: 'a6e1355287947096b88b',
+        //             clientSecret: 'f0e77d070fabfcd5af95bebb82b2d574d7248d71',
+        //             repo: 'helloyifee.github.io', // GitHub 仓库
+        //             owner: 'yifeewang', // GitHub仓库所有者
+        //             admin: ['yifeewang'], // 对仓库有写权限的人
+        //             // distractionFreeMode: true,
+        //             pagerDirection: 'last', // 'first'正序 | 'last'倒序
+        //             id: '<%- (frontmatter.permalink || frontmatter.to.path).slice(-16) %>', //  页面的唯一标识,长度不能超过50
+        //             title: '「评论」<%- frontmatter.title %>', // GitHub issue 的标题
+        //             labels: ['Gitalk', 'Comment'], // GitHub issue 的标签
+        //             body: '页面：<%- window.location.origin + (frontmatter.to.path || window.location.pathname) %>', // GitHub issue 的内容
+        //         },
+        //     },
+        // ],
         [
             '@vuepress/last-updated', // "上次更新"时间格式
             {
