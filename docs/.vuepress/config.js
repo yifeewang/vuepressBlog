@@ -5,7 +5,7 @@ module.exports = {
     theme: 'vdoing', // 使用npm包主题
     // theme: require.resolve('../../theme-vdoing'), // 使用本地主题
 
-    title: "yifee's blog",
+    title: "努力写bug的王路飞",
     description: 'web前端技术博客,专注web前端学习与总结。JavaScript,js,ES6,TypeScript,vue,React,python,css3,html5,Node,git,github等技术文章。',
     base: '/helloyifee.github.io/', // 默认'/'。如果你想将你的网站部署到如 https://foo.github.io/bar/，那么 base 应该被设置成 "/bar/",（否则页面将失去样式等文件）
 
@@ -210,7 +210,7 @@ module.exports = {
         // 博主信息，显示在首页侧边栏
         blogger: {
             avatar: 'https://20211222.oss-cn-beijing.aliyuncs.com/yifee.jpg',
-            name: 'yifee wang',
+            name: '努力写bug的王路飞',
             slogan: '前端的小菜鸟',
         },
 
@@ -220,7 +220,7 @@ module.exports = {
             icons: [{
                     iconClass: 'icon-youjian',
                     title: '发邮件',
-                    link: 'mailto:894072666@qq.com',
+                    link: 'mailto:896678534@qq.com',
                 },
                 {
                     iconClass: 'icon-github',
@@ -237,8 +237,8 @@ module.exports = {
 
         // 页脚信息
         footer: {
-            createYear: 2019, // 博客创建年份
-            copyrightInfo: 'yifee wang | <a href="https://github.com/yifeewang" target="_blank">MIT License</a>', // 博客版权信息，支持a标签
+            createYear: 2022, // 博客创建年份
+            copyrightInfo: '王路飞 | <a href="https://github.com/yifeewang" target="_blank">MIT License</a>', // 博客版权信息，支持a标签
         },
 
         // 插入hmtl(广告)模块

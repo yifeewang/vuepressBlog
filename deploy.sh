@@ -19,7 +19,7 @@ cd docs/.vuepress/dist
 #   msg='来自github actions的自动部署'
 #   githubUrl=https://yifeewang:${GITHUB_TOKEN}@github.com/yifeewang/vuepress-theme-vdoing.git
 #   git config --global user.name "yifeewang"
-#   git config --global user.email "894072666@qq.com"
+#   git config --global user.email "896678534@qq.com"
 # fi
 git init
 git add -A

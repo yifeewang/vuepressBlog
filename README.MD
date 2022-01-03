@@ -13,7 +13,7 @@
 <h2 align="center">vuepress-theme-vdoing</h2>
 
 - [文档 (国内源)](https://doc.yifeewang.com/)
-- [yifee's blog](https://yifeewang.com/)
+- [王路飞](https://yifeewang.com/)
 
 ## 介绍
 
@@ -94,4 +94,4 @@ npm run dev # or yarn dev
 
 [MIT](https://github.com/yifeewang/vuepress-theme-vdoing/blob/master/LICENSE)
 
-Copyright (c) 2019-present yifee wang
+Copyright (c) 2022-present 王路飞
