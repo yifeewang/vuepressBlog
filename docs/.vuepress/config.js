@@ -84,7 +84,7 @@ module.exports = {
                 ],
             },
             {
-                text: '技术',
+                text: '全栈',
                 link: '/technology/',
                 items: [{
                         text: '技术文档',
@@ -99,7 +99,7 @@ module.exports = {
                         link: '/pages/117708e0af7f0bd9/'
                     },
                     {
-                        text: '博客搭建',
+                        text: '部署上线',
                         link: '/pages/41f87d890d0a02af/'
                     },
                 ],
