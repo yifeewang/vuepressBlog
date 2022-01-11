@@ -105,7 +105,7 @@ module.exports = {
                 ],
             },
             {
-                text: '更多',
+                text: '随笔',
                 link: '/more/',
                 items: [{
                         text: '学习',
