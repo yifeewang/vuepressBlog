@@ -22,56 +22,46 @@ module.exports = {
                 items: [
                     // 说明：以下所有link的值只是在相应md文件头部定义的永久链接（不是什么特殊编码）。另外，注意结尾是有斜杠的
                     {
-                        text: '前端文章',
+                        text: 'js',
                         items: [{
                             text: 'JavaScript',
                             link: '/pages/8143cc480faf9a11/'
+                        }, ],
+                    },{
+                        text: 'react',
+                        items: [{
+                            text: 'dumi从0设计ui库',
+                            link: '/pages/f80a3e/'
                         }, ],
                     },
                     {
                         text: '学习笔记',
                         items: [{
-                                text: '《JavaScript教程》',
-                                link: '/note/javascript/'
-                            },
-                            {
-                                text: '《JavaScript高级程序设计》',
-                                link: '/note/js/'
-                            },
-                            {
-                                text: '《ES6 教程》',
-                                link: '/note/es6/'
-                            },
-                            {
-                                text: '《Vue》',
-                                link: '/note/vue/'
-                            },
-                            {
-                                text: '《React》',
-                                link: '/note/react/'
-                            },
-                            {
-                                text: '《TypeScript 从零实现 axios》',
-                                link: '/note/typescript-axios/',
-                            },
-                            {
-                                text: '《Git》',
-                                link: '/note/git/',
+                                text: 'JavaScript',
+                                link: '/pages/8143cc480faf9a11/'
                             },
                             {
                                 text: 'TypeScript',
-                                link: '/pages/51afd6/',
+                                link: '/pages/51afd6/'
                             },
                             {
-                                text: 'JS设计模式总结',
-                                link: '/pages/4643cd/',
+                                text: '小程序',
+                                link: '/note/wx-miniprogram'
                             },
+                            {
+                                text: '设计模式',
+                                link: '/pages/4643cd/'
+                            },
+                            {
+                                text: 'husky+commitlint统一代码规范',
+                                link: '/pages/90fd45/'
+                            }
                         ],
                     },
                 ],
             },
             {
-                text: '页面',
+                text: '页面相关',
                 link: '/ui/',
                 items: [{
                         text: 'HTML',
@@ -106,32 +96,7 @@ module.exports = {
             },
             {
                 text: '随笔',
-                link: '/more/',
-                items: [{
-                        text: '学习',
-                        link: '/pages/f2a556/'
-                    },
-                    {
-                        text: '面试',
-                        link: '/pages/aea6571b7a8bae86/'
-                    },
-                    {
-                        text: '心情杂货',
-                        link: '/pages/2d615df9a36a98ed/'
-                    },
-                    {
-                        text: '实用技巧',
-                        link: '/pages/baaa02/'
-                    },
-                    {
-                        text: '友情链接',
-                        link: '/friends/'
-                    },
-                ],
-            },
-            {
-                text: '关于',
-                link: '/about/'
+                link: '/pages/2d615df9a36a98ed/'
             },
             {
                 text: '收藏',
