@@ -174,7 +174,7 @@ module.exports = {
 
         // 博主信息，显示在首页侧边栏
         blogger: {
-            avatar: '/img/yifee.jpg',
+            avatar: '/helloyifee.github.io/img/yifee.jpg',
             name: '努力写bug的王路飞',
             slogan: '前端的小菜鸟',
         },
