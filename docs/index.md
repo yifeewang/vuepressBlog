@@ -62,8 +62,9 @@ features: # 可选的
 
 ## :email: 联系
 
-- **WeChat or QQ**: <a href="tencent://message/?uin=896678534&Site=&Menu=yesUrl" class='qq'>896678534</a>
-- **Email**: <a href="mailto:896678534@qq.com">896678534@qq.com</a>
+- **QQ**: <a href="tencent://message/?uin=896678534&Site=&Menu=yesUrl" class='qq'>896678534</a>
+- **WeChat**: <a href="tencent://message/?uin=896678534&Site=&Menu=yesUrl" class='qq'>13642354445</a>
+- **Email**: <a href="mailto:896678534@qq.com">13642354445@163.com</a>
 - **GitHub**: <https://github.com/yifeewang>
 
 </br>  -->

@@ -24,29 +24,35 @@ module.exports = {
                     {
                         text: 'js',
                         items: [{
-                            text: 'JavaScript',
-                            link: '/pages/8143cc480faf9a11/'
-                        }, ],
+                            text: '深入核心，详解事件循环机制',
+                            link: '/pages/9d6acf/'
+                        },{
+                            text: 'js日期(Date)总结',
+                            link: '/pages/75650f/'
+                        } ],
                     },{
                         text: 'react',
                         items: [{
                             text: 'dumi从0设计ui库',
                             link: '/pages/f80a3e/'
-                        }, ],
+                        },{
+                            text: 'hooks里多个倒计时处理',
+                            link: '/pages/e9e138/'
+                        } ],
                     },
                     {
                         text: '学习笔记',
                         items: [{
-                                text: 'JavaScript',
-                                link: '/pages/8143cc480faf9a11/'
+                                text: '开发避坑笔记',
+                                link: '/pages/a9a286/'
                             },
                             {
                                 text: 'TypeScript',
                                 link: '/pages/51afd6/'
                             },
                             {
-                                text: '小程序',
-                                link: '/note/wx-miniprogram'
+                                text: 'ajax封装(并发，优先级，锁等相关实现)',
+                                link: '/pages/81145b/'
                             },
                             {
                                 text: '设计模式',
@@ -57,7 +63,16 @@ module.exports = {
                                 link: '/pages/90fd45/'
                             }
                         ],
-                    },
+                    },{
+                        text: '前端工具(工程化)',
+                        items: [{
+                            text: 'Webpack | vite | Rollup | Gulp | Grunt 比较',
+                            link: '/pages/17152a/'
+                        },{
+                            text: 'npm | pnpm | yarn | lerna 比较',
+                            link: '/pages/569563/'
+                        }],
+                    }
                 ],
             },
             {
