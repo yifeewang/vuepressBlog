@@ -97,7 +97,7 @@ module.exports = {
             },
             {
                 text: '全栈',
-                link: '/technology/',
+                link: '/pages/9a7ee40fc232253e/',
                 items: [{
                         text: '技术文档',
                         link: '/pages/9a7ee40fc232253e/'
@@ -126,6 +126,10 @@ module.exports = {
                     {
                         text: '关于梦境',
                         link: '/pages/92ee22/'
+                    },
+                    {
+                        text: '就这样普普通通的吧',
+                        link: '/pages/35c487/'
                     }
                 ],
             },
@@ -205,7 +209,7 @@ module.exports = {
 
         // 博主信息，显示在首页侧边栏
         blogger: {
-            avatar: '/helloyifee.github.io/img/yifee.jpg',
+            avatar: 'https://20220502-1309090431.cos.ap-shanghai.myqcloud.com/myBlog/yifee.jpg',
             name: '努力写bug的王路飞',
             slogan: '一个伪全栈前端工程师',
         },
