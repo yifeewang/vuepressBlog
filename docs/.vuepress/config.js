@@ -209,7 +209,7 @@ module.exports = {
 
         // 博主信息，显示在首页侧边栏
         blogger: {
-            avatar: 'https://20220502-1309090431.cos.ap-shanghai.myqcloud.com/myBlog/yifee.jpg',
+            avatar: 'https://20211222.oss-cn-beijing.aliyuncs.com/yifee.jpg',
             name: '努力写bug的王路飞',
             slogan: '一个伪全栈前端工程师',
         },
