@@ -22,56 +22,68 @@ module.exports = {
                 items: [
                     // 说明：以下所有link的值只是在相应md文件头部定义的永久链接（不是什么特殊编码）。另外，注意结尾是有斜杠的
                     {
-                        text: '前端文章',
+                        text: 'js',
                         items: [{
-                            text: 'JavaScript',
-                            link: '/pages/8143cc480faf9a11/'
-                        }, ],
+                            text: '深入核心，详解事件循环机制',
+                            link: '/pages/9d6acf/'
+                        },{
+                            text: 'js日期(Date)总结',
+                            link: '/pages/75650f/'
+                        } ],
+                    },{
+                        text: 'react',
+                        items: [{
+                            text: 'dumi从0设计ui库',
+                            link: '/pages/f80a3e/'
+                        },{
+                            text: 'hooks里多个倒计时处理',
+                            link: '/pages/e9e138/'
+                        },{
+                            text: 'react里运用的的设计模式',
+                            link: '/pages/f96a1b/'
+                        } ],
                     },
                     {
                         text: '学习笔记',
                         items: [{
-                                text: '《JavaScript教程》',
-                                link: '/note/javascript/'
+                                text: '开发避坑笔记',
+                                link: '/pages/a9a286/'
                             },
                             {
-                                text: '《JavaScript高级程序设计》',
-                                link: '/note/js/'
+                                text: 'ajax封装(并发，优先级，锁等相关实现)',
+                                link: '/pages/81145b/'
                             },
                             {
-                                text: '《ES6 教程》',
-                                link: '/note/es6/'
+                                text: 'javaScript常用设计模式',
+                                link: '/pages/b35a81/'
                             },
                             {
-                                text: '《Vue》',
-                                link: '/note/vue/'
+                                text: '设计模式',
+                                link: '/pages/4643cd/'
                             },
                             {
-                                text: '《React》',
-                                link: '/note/react/'
-                            },
-                            {
-                                text: '《TypeScript 从零实现 axios》',
-                                link: '/note/typescript-axios/',
-                            },
-                            {
-                                text: '《Git》',
-                                link: '/note/git/',
+                                text: 'husky+commitlint统一代码规范',
+                                link: '/pages/90fd45/'
                             },
                             {
                                 text: 'TypeScript',
-                                link: '/pages/51afd6/',
-                            },
-                            {
-                                text: 'JS设计模式总结',
-                                link: '/pages/4643cd/',
+                                link: '/pages/51afd6/'
                             },
                         ],
-                    },
+                    },{
+                        text: '前端工具(工程化)',
+                        items: [{
+                            text: 'Webpack | vite | Rollup | Gulp | Grunt 比较',
+                            link: '/pages/17152a/'
+                        },{
+                            text: 'npm | pnpm | yarn | lerna 比较',
+                            link: '/pages/569563/'
+                        }],
+                    }
                 ],
             },
             {
-                text: '页面',
+                text: '页面相关',
                 link: '/ui/',
                 items: [{
                         text: 'HTML',
@@ -85,7 +97,7 @@ module.exports = {
             },
             {
                 text: '全栈',
-                link: '/technology/',
+                link: '/pages/9a7ee40fc232253e/',
                 items: [{
                         text: '技术文档',
                         link: '/pages/9a7ee40fc232253e/'
@@ -96,7 +108,7 @@ module.exports = {
                     },
                     {
                         text: 'Nodejs',
-                        link: '/pages/117708e0af7f0bd9/'
+                        link: '/pages/f43700/'
                     },
                     {
                         text: '部署上线',
@@ -106,32 +118,20 @@ module.exports = {
             },
             {
                 text: '随笔',
-                link: '/more/',
+                link: '/pages/92ee22/',
                 items: [{
-                        text: '学习',
-                        link: '/pages/f2a556/'
+                        text: '对所有的烦恼说拜拜',
+                        link: '/pages/61c915/'
                     },
                     {
-                        text: '面试',
-                        link: '/pages/aea6571b7a8bae86/'
+                        text: '关于梦境',
+                        link: '/pages/92ee22/'
                     },
                     {
-                        text: '心情杂货',
-                        link: '/pages/2d615df9a36a98ed/'
-                    },
-                    {
-                        text: '实用技巧',
-                        link: '/pages/baaa02/'
-                    },
-                    {
-                        text: '友情链接',
-                        link: '/friends/'
-                    },
+                        text: '就这样普普通通的吧',
+                        link: '/pages/35c487/'
+                    }
                 ],
-            },
-            {
-                text: '关于',
-                link: '/about/'
             },
             {
                 text: '收藏',
@@ -211,7 +211,7 @@ module.exports = {
         blogger: {
             avatar: 'https://20211222.oss-cn-beijing.aliyuncs.com/yifee.jpg',
             name: '努力写bug的王路飞',
-            slogan: '前端的小菜鸟',
+            slogan: '一个伪全栈前端工程师',
         },
 
         // 社交图标，显示于博主信息栏和页脚栏。内置图标：https://doc.yifeewang.com/pages/a20ce8/#social

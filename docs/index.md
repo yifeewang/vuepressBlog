@@ -13,12 +13,12 @@ features: # 可选的
     link: /more/
     imgUrl: /img/other.png
   - title: 前端大杂烩
-    details: JavaScript、ES6、Vue框架等前端技术
+    details: JavaScript、ES6、React框架等前端技术
     link: /web/ # 可选
     imgUrl: /img/web.png # 可选
-  - title: 页面
-    details: html(5)/css(3)，前端页面相关技术
-    link: /ui/
+  - title: 全栈
+    details: node，部署等相关技术
+    link: /technology/
     imgUrl: /img/ui.png
 # 文章列表显示方式: detailed 默认，显示详细版文章列表（包括作者、分类、标签、摘要、分页等）| simple => 显示简约版文章列表（仅标题和日期）| none 不显示文章列表
 # postList: detailed
@@ -27,20 +27,6 @@ features: # 可选的
 
 <!-- 小熊猫 -->
 <!-- <img src="/img/panda-waving.png" class="panda no-zoom" style="width: 130px;height: 115px;opacity: 0.8;margin-bottom: -4px;padding-bottom:0;position: fixed;bottom: 0;left: 0.5rem;z-index: 1;"> -->
-
-<!--
-## 关于
-
-### 📚Blog
-这是一个兼具博客文章、知识管理、文档查找的个人网站，主要内容是Web前端技术。如果你喜欢这个博客&主题欢迎到[GitHub](https://github.com/yifeewang/vuepress-theme-vdoing)点个Star、获取源码，或者交换[友链](/friends/) ( •̀ ω •́ )✧
-
-### 🎨Theme
-本站主题是根据[VuePress](https://vuepress.vuejs.org/zh/)的默认主题修改而成。取名`Vdoing`(维度)，旨在轻松打造一个`结构化`与`碎片化`并存的个人在线知识库&博客，让你的知识海洋像一本本书一样清晰易读。配合多维索引，让每一个知识点都可以快速定位！ 更多[详情](https://github.com/yifeewang/vuepress-theme-vdoing)。
-
-<a href="https://github.com/yifeewang/vuepress-theme-vdoing" target="_blank"><img src='https://img.shields.io/github/stars/yifeewang/vuepress-theme-vdoing' alt='GitHub stars' class="no-zoom"></a>
-<a href="https://github.com/yifeewang/vuepress-theme-vdoing" target="_blank"><img src='https://img.shields.io/github/forks/yifeewang/vuepress-theme-vdoing' alt='GitHub forks' class="no-zoom"></a>
-
-</br>
 
 
 ## 特色功能
@@ -76,8 +62,9 @@ features: # 可选的
 
 ## :email: 联系
 
-- **WeChat or QQ**: <a href="tencent://message/?uin=896678534&Site=&Menu=yesUrl" class='qq'>896678534</a>
-- **Email**: <a href="mailto:896678534@qq.com">896678534@qq.com</a>
+- **QQ**: <a href="tencent://message/?uin=896678534&Site=&Menu=yesUrl" class='qq'>896678534</a>
+- **WeChat**: <a href="tencent://message/?uin=896678534&Site=&Menu=yesUrl" class='qq'>13642354445</a>
+- **Email**: <a href="mailto:896678534@qq.com">13642354445@163.com</a>
 - **GitHub**: <https://github.com/yifeewang>
 
 </br>  -->
