@@ -62,7 +62,7 @@ module.exports = {
                                 link: '/pages/4643cd/'
                             },
                             {
-                                text: 'husky+commitlint统一代码规范',
+                                text: 'ESLint + Prettier + husky + Lint-staged + commitlint：统一前端代码规范',
                                 link: '/pages/90fd45/'
                             },
                             {
