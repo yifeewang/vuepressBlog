@@ -62,7 +62,7 @@ module.exports = {
                                 link: '/pages/4643cd/'
                             },
                             {
-                                text: 'ESLint + Prettier + husky + Lint-staged + commitlint：统一前端代码规范',
+                                text: 'ESLint + stylelint + husky + Lint-staged + commitlint：统一前端代码规范',
                                 link: '/pages/90fd45/'
                             },
                             {
