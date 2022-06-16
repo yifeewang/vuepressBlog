@@ -42,6 +42,12 @@ module.exports = {
                             text: 'react里运用的的设计模式',
                             link: '/pages/f96a1b/'
                         } ],
+                    },{
+                        text: 'vue',
+                        items: [{
+                            text: 'vue3学习笔记',
+                            link: '/pages/ad85d7/'
+                        } ],
                     },
                     {
                         text: '学习笔记',
