@@ -120,6 +120,10 @@ module.exports = {
                         text: '部署上线',
                         link: '/pages/41f87d890d0a02af/'
                     },
+                    {
+                        text: 'http相关',
+                        link: '/pages/c5c1ef/'
+                    },
                 ],
             },
             {
