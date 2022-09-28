@@ -79,11 +79,17 @@ module.exports = {
                     },{
                         text: '前端工具(工程化)',
                         items: [{
-                            text: 'Webpack | vite | Rollup | Gulp | Grunt 比较',
+                            text: '各打包工具比较',
                             link: '/pages/17152a/'
                         },{
                             text: 'npm | pnpm | yarn | lerna 比较',
                             link: '/pages/569563/'
+                        }],
+                    },{
+                        text: '架构',
+                        items: [{
+                            text: '1.后台管理系统实现页面多tab，右键菜单关闭、刷新等功能',
+                            link: '/pages/da72ce/'
                         }],
                     }
                 ],
@@ -131,7 +137,7 @@ module.exports = {
                 ],
             },
             {
-                text: '随笔',
+                text: '随便想想',
                 link: '/pages/92ee22/',
                 items: [{
                         text: '对所有的烦恼说拜拜',
