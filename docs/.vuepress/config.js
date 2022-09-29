@@ -91,6 +91,12 @@ module.exports = {
                             text: '1.后台管理系统实现页面多tab，右键菜单关闭、刷新等功能',
                             link: '/pages/da72ce/'
                         }],
+                    },{
+                        text: 'ts笔记',
+                        items: [{
+                            text: 'TypeScript 从零实现 axios',
+                            link: '/pages/51afd6/'
+                        }],
                     }
                 ],
             },
