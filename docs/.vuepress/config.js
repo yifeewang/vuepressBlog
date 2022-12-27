@@ -22,14 +22,24 @@ module.exports = {
                 items: [
                     // 说明：以下所有link的值只是在相应md文件头部定义的永久链接（不是什么特殊编码）。另外，注意结尾是有斜杠的
                     {
-                        text: 'js',
+                        text: '页面相关',
                         items: [{
-                            text: '深入核心，详解事件循环机制',
-                            link: '/pages/9d6acf/'
-                        },{
-                            text: 'js日期(Date)总结',
-                            link: '/pages/75650f/'
-                        } ],
+                                text: 'HTML',
+                                link: '/pages/8309a5b876fc95e3/'
+                            },
+                            {
+                                text: 'CSS基础',
+                                link: '/pages/0a83b083bdf257cb/'
+                            },
+                            {
+                                text: '奇妙的CSS',
+                                link: '/pages/c846e1/'
+                            },
+                            {
+                                text: '前端动画',
+                                link: '/pages/ddba10/'
+                            },
+                        ],
                     },{
                         text: 'react',
                         items: [{
@@ -76,49 +86,11 @@ module.exports = {
                                 link: '/pages/51afd6/'
                             },
                         ],
-                    },{
-                        text: '前端工具(工程化)',
-                        items: [{
-                            text: '各打包工具比较',
-                            link: '/pages/17152a/'
-                        },{
-                            text: 'npm | pnpm | yarn | lerna 比较',
-                            link: '/pages/569563/'
-                        }],
-                    },{
-                        text: '架构',
-                        items: [{
-                            text: '1.后台管理系统实现页面多tab，右键菜单关闭、刷新等功能',
-                            link: '/pages/da72ce/'
-                        }],
-                    },{
-                        text: 'ts笔记',
-                        items: [{
-                            text: 'TypeScript 从零实现 axios',
-                            link: '/pages/51afd6/'
-                        }],
                     }
                 ],
             },
             {
-                text: '页面相关',
-                link: '/ui/',
-                items: [{
-                        text: 'HTML',
-                        link: '/pages/8309a5b876fc95e3/'
-                    },
-                    {
-                        text: 'CSS',
-                        link: '/pages/0a83b083bdf257cb/'
-                    },
-                    {
-                        text: '奇妙的CSS',
-                        link: '/pages/c846e1/'
-                    },
-                ],
-            },
-            {
-                text: '全栈',
+                text: '服务端',
                 link: '/pages/9a7ee40fc232253e/',
                 items: [{
                         text: '技术文档',
@@ -139,7 +111,40 @@ module.exports = {
                     {
                         text: 'http相关',
                         link: '/pages/c5c1ef/'
-                    },
+                    },{
+                        text: '前端工具(工程化)',
+                        items: [{
+                            text: '各打包工具比较',
+                            link: '/pages/17152a/'
+                        },{
+                            text: 'npm | pnpm | yarn | lerna 比较',
+                            link: '/pages/569563/'
+                        }],
+                    },{
+                        text: '架构',
+                        items: [{
+                            text: '1.后台管理系统实现页面多tab，右键菜单关闭、刷新等功能',
+                            link: '/pages/da72ce/'
+                        }],
+                    }
+                ],
+            },
+            {
+                text: 'js/ts',
+                link: '/pages/51afd6/',
+                items: [
+                  { 
+                    text: 'js', 
+                    link: '/pages/9d6acf/' 
+                  },
+                  { 
+                    text: 'ts', 
+                    link: '/pages/51afd6/' 
+                  },
+                  {
+                    text: 'TypeScript 从零实现 axios',
+                    link: '/pages/e05dce83e5129785/'
+                  }
                 ],
             },
             {
@@ -160,13 +165,17 @@ module.exports = {
                 ],
             },
             {
-                text: '收藏',
-                link: '/pages/beb6c0bd8a66cea6/',
-                // items: [
-                //   { text: '网站', link: '/pages/beb6c0bd8a66cea6/' },
-                //   { text: '资源', link: '/pages/eee83a9211a70f9d/' },
-                //   { text: 'Vue资源', link: '/pages/12df8ace52d493f6/' },
-                // ],
+                text: '收藏夹',
+                link: '/pages/beb6c0bd8a66cea6',
+                items: [{
+                        text: '常用前端轮子',
+                        link: '/pages/47cf96/'
+                    },
+                    {
+                        text: '网站',
+                        link: '/pages/beb6c0bd8a66cea6'
+                    }
+                ],
             },
             {
                 text: '索引',
