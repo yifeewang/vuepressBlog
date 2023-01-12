@@ -16,7 +16,7 @@ features: # 可选的
     details: JavaScript、ES6、React框架等前端技术
     link: /web/ # 可选
     imgUrl: /img/web.png # 可选
-  - title: 全栈
+  - title: 服务端
     details: node，部署等相关技术
     link: /technology/
     imgUrl: /img/ui.png

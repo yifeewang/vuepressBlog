@@ -112,13 +112,16 @@ module.exports = {
                         text: 'http相关',
                         link: '/pages/c5c1ef/'
                     },{
-                        text: '前端工具(工程化)',
+                        text: '前端工程化',
                         items: [{
-                            text: '各打包工具比较',
+                            text: '打包工具',
                             link: '/pages/17152a/'
                         },{
-                            text: 'npm | pnpm | yarn | lerna 比较',
+                            text: '包管理工具',
                             link: '/pages/569563/'
+                        },{
+                            text: '脚手架工具',
+                            link: '/pages/a4f621/'
                         }],
                     },{
                         text: '架构',
