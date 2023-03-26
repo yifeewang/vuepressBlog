@@ -90,7 +90,7 @@ module.exports = {
                 ],
             },
             {
-                text: '服务端',
+                text: '工程化',
                 link: '/pages/9a7ee40fc232253e/',
                 items: [{
                         text: '技术文档',
