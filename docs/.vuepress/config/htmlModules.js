@@ -27,7 +27,7 @@ module.exports = {
       font-weight: bold;
       margin: 0 0 8px 0;
     ">微信</p>
-    <img src="/img/yifee_v.jpg"  style="width:100%;" />
+    <img src="/helloyifee.github.io/img/yifee_v.jpg"  style="width:100%;" />
     <p style="
       color: var(--textColor);
       opacity: 0.9;

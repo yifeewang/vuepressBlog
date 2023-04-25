@@ -49,7 +49,7 @@ features: # 可选的
 </html>
 <script>
   var box = document.getElementById('vanilla-box')
-  box.innerHTML = 'Hello World! Welcome to EB'
+  box.innerHTML = 'Hello World! Welcome to yifee‘s home'
 </script>
 <style>
 #vanilla-box {
