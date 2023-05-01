@@ -164,6 +164,10 @@ module.exports = {
                     {
                         text: '就这样普普通通的吧',
                         link: '/pages/35c487/'
+                    },
+                    {
+                        text: '忽然而已',
+                        link: '/pages/3b1614/'
                     }
                 ],
             },
